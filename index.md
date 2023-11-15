@@ -8,11 +8,11 @@ layout: homepage
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
-
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Nov 2023]** Our submission to interactive Knowledge Acquisition Task (iKAT) @ TREC 2023 became 1st place.
+- **[Nov 2023]** Our paper "Revisiting Bag of Words Document Representations for Efficient Ranking with Transformers", together with Jaap Kamps and Mostafa Dehghani was accepted to TOIS's Special Section on Efficiency in Neural Information Retrieval.
+- **[Dec 2022]** I was invited to give a talk about my work on the role of syntax in neural IR @ (Search Engines Amsterdam)[https://www.meetup.com/sea-search-engines-amsterdam/events/289184753/]
+- **[Nov 2022]** I joined the British Computer Society's Information Retrieval Specialist Group [IRSG](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/) as a committee member.
+- - **[Jun 2021]** Our paper "The Role of Complex NLP in Transformers for Text Ranking?" together with Jaap Kamps was accepted to ICTIR.
 
 ## Publications
 
