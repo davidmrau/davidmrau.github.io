@@ -11,8 +11,8 @@ I am a PhD candidate at the University of Amsterdam and the Institute of Logic, 
 - **[Nov 2023]** Our paper "Revisiting Bag of Words Document Representations for Efficient Ranking with Transformers", together with Jaap Kamps and Mostafa Dehghani was accepted to TOIS's Special Section on Efficiency in Neural Information Retrieval.
 - **[Dec 2022]** I was invited to give a talk about my work on the role of syntax in neural IR @ [Search Engines Amsterdam](https://www.meetup.com/sea-search-engines-amsterdam/events/289184753/)
 - **[Nov 2022]** I joined the British Computer Society's Information Retrieval Specialist Group [(IRSG)](https://www.bcs.org/membership-and-registrations/member-communities/information-retrieval-specialist-group/) as a committee member.
-- - **[Jun 2022]** Our paper "The Role of Complex NLP in Transformers for Text Ranking?" together with Jaap Kamps was accepted to ICTIR'22 [pdf](https://arxiv.org/pdf/2207.02522.pdf).
-- - **[Dec 2021]** Our paper "How Different are Pre-trained Transformers for Text Ranking?" together with Jaap Kamps was accepted to ECIR'22[pdf](https://arxiv.org/pdf/2204.07233.pdf).
+- - **[Jun 2022]** Our paper "The Role of Complex NLP in Transformers for Text Ranking?" together with Jaap Kamps was accepted to ICTIR'22 [(pdf)](https://arxiv.org/pdf/2207.02522.pdf).
+- - **[Dec 2021]** Our paper "How Different are Pre-trained Transformers for Text Ranking?" together with Jaap Kamps was accepted to ECIR'22 [(pdf)](https://arxiv.org/pdf/2204.07233.pdf).
 
 ## Publications
 
