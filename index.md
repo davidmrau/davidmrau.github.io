@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a PhD candidate at the University of Amsterdam and the Institute of Logic, Language, and Computation (ILLC). I am supervised by Jaap Kamps. I am working on the intersection of NLP and Information Retrieval.  Particularly, I am interested in developing methods for applying LLMs for search efficiency. Previously, I obtained a M.Sc. in Artificial Intelligence from the University of Amsterdam, Netherlands and a B.Sc. in Bioinformatics from the University of Tübingen, Germany. 
+I am a PhD candidate at the University of Amsterdam and the Institute of Logic, Language, and Computation (ILLC) under the supervision of Jaap Kamps. I am working on the intersection of NLP and Information Retrieval.  Particularly, I am interested in developing methods for applying LLMs for search efficiency. Previously, I obtained a M.Sc. in Artificial Intelligence from the University of Amsterdam, Netherlands and a B.Sc. in Bioinformatics from the University of Tübingen, Germany. 
 
 
 ## News
